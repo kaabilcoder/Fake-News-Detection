@@ -25,6 +25,13 @@ It processes raw text, extracts features using the **TF-IDF Vectorizer**, and cl
 
 ---
 
+
+## 📁 Dataset
+
+- **Source**: [Kaggle - Fake News Detection Datasets](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
+
+---
+
 ## 📊 Topics Covered
 
 - Text preprocessing (cleaning, stopword removal, stemming)
